@@ -1,41 +1,25 @@
-ÎÄ¼þ¼Ð½á¹¹£º
-  ¸ùÄ¿Â¼ 2014310618_ÀîÑ©_homework1
-	|-- readme.txt
-		¶ÔÌá½»µÄÎÄ¼þ½øÐÐËµÃ÷
-	|-- bin(×ÓÄ¿Â¼)
-		°üº¬±àÒë³öµÄ¿ÉÖ´ÐÐÎÄ¼þºÍÊµÑéÊý¾Ý
-	|-- src(×ÓÄ¿Â¼)
-		°üº¬Ô´³ÌÐò
 
-±à³ÌÓïÑÔ: C++
-
-±àÒë¹¤¾ß: GNU GCC Compiler
-
-ÔËÐÐ»·¾³: 
-  ´¦ÀíÆ÷£ºIntel(R) Core(TM) i7-4790 CPU @ 3.60GHz 
-  ÄÚ´æ£º8GB
-  ²Ù×÷ÏµÍ³£ºWindows 7 Æì½¢°æ
-
-ÌØÕ÷ÌáÈ¡£º
-  1. ·Ö´Ê£ºÖ»°Ñ×ÖÄ¸¡¢Êý×Ö¡¢Á¬½Ó·ûÊÓÎªµ¥´ÊµÄÒ»²¿·Ö£¬ÆäËû×Ö·ûÊÓÎªµ¥´Ê¼äµÄ·Ö¸ô¡£
-  2. ÌØÕ÷Ñ¡È¡£º½«Ã¿Ò»¸öµ¥´ÊµÄ³öÏÖÆµÂÊ×÷ÎªÒ»Î¬ÌØÕ÷¡£
-  3. ÌØÕ÷ÌáÈ¡£ºÍ³¼ÆÃ¿Ò»ÎÄµµÖÐÃ¿¸öµ¥´Ê(ÓÃ±àºÅ±íÊ¾)µÄ³öÏÖÆµÂÊ×÷Îª¸ÃÎÄµµµÄÌØÕ÷ÏòÁ¿¡£
+ç‰¹å¾æå–ï¼š
+  1. åˆ†è¯ï¼šåªæŠŠå­—æ¯ã€æ•°å­—ã€è¿žæŽ¥ç¬¦è§†ä¸ºå•è¯çš„ä¸€éƒ¨åˆ†ï¼Œå…¶ä»–å­—ç¬¦è§†ä¸ºå•è¯é—´çš„åˆ†éš”ã€‚
+  2. ç‰¹å¾é€‰å–ï¼šå°†æ¯ä¸€ä¸ªå•è¯çš„å‡ºçŽ°é¢‘çŽ‡ä½œä¸ºä¸€ç»´ç‰¹å¾ã€‚
+  3. ç‰¹å¾æå–ï¼šç»Ÿè®¡æ¯ä¸€æ–‡æ¡£ä¸­æ¯ä¸ªå•è¯(ç”¨ç¼–å·è¡¨ç¤º)çš„å‡ºçŽ°é¢‘çŽ‡ä½œä¸ºè¯¥æ–‡æ¡£çš„ç‰¹å¾å‘é‡ã€‚
  
-ÔËÐÐ·½·¨:
-  1. ÔËÐÐbin\process.exeÎÄ¼þ£¬´ÓÍ¬Ä¿Â¼ÏÂµÄdatasetÎÄ¼þ¼ÐÏÂ¶ÁÈëÊý¾Ý£¬½«´¦ÀíºóµÄÎÄ¼þÊä³öµ½Í¬Ä¿Â¼ÏÂµÄprocessed_dataÎÄ¼þ¼ÐÖÐ¡£
-  2. ÔËÐÐbin\task.exeÎÄ¼þ£¬´ÓÍ¬Ä¿Â¼ÏÂµÄprocessed_dataÎÄ¼þ¼ÐÏÂ¶ÁÈëÊý¾Ý£¬½«Ã¿¸ö²âÊÔ×éµÄ×¼È·ÂÊ¡¢ÕÙ»ØÂÊ¡¢F1·ÖÊýÒÔ¼°×îºóµÄÆ½¾ùÐÔÄÜÊä³öµ½¿ØÖÆÌ¨ÖÐ¡£
+è¿è¡Œæ–¹æ³•:
+  1. processä»ŽåŒç›®å½•ä¸‹çš„datasetæ–‡ä»¶å¤¹ä¸‹è¯»å…¥æ•°æ®ï¼Œå°†å¤„ç†åŽçš„æ–‡ä»¶è¾“å‡ºåˆ°åŒç›®å½•ä¸‹çš„processed_dataæ–‡ä»¶å¤¹ä¸­ã€‚
+  2. taskï¼Œä»ŽåŒç›®å½•ä¸‹çš„processed_dataæ–‡ä»¶å¤¹ä¸‹è¯»å…¥æ•°æ®ï¼Œå°†æ¯ä¸ªæµ‹è¯•ç»„çš„å‡†ç¡®çŽ‡ã€å¬å›žçŽ‡ã€F1åˆ†æ•°ä»¥åŠæœ€åŽçš„å¹³å‡æ€§èƒ½è¾“å‡ºã€‚
 
-ÐÔÄÜÆÀ¼Û£º
-ÉèK=100Ê±£¬ÔËÐÐÔ¼20·ÖÖÓ
+æ€§èƒ½è¯„ä»·ï¼š
+è®¾K=100æ—¶ï¼Œè¿è¡Œçº¦20åˆ†é’Ÿ
   average precision: 0.920
   average recall: 0.940
   average f1: 0.935
-ÉèK=20Ê±£¬ÔËÐÐÔ¼4·ÖÖÓ£¨µ±Ç°ÉèÖÃ£©
+è®¾K=20æ—¶ï¼Œè¿è¡Œçº¦4åˆ†é’Ÿï¼ˆå½“å‰è®¾ç½®ï¼‰
   average precision: 0.780
   average recall: 0.894
   average f1: 0.832
-ÉèK=5Ê±£¬ÔËÐÐÔ¼1·ÖÖÓ
+è®¾K=5æ—¶ï¼Œè¿è¡Œçº¦1åˆ†é’Ÿ
   average precision: 0.618
   average recall: 0.924
   average f1: 0.741
+
 
